@@ -21,4 +21,23 @@ Install dependencies:
 bash
 pip install -r requirements.txt
 
+# Future Improvements
+Here are a few ideas for future updates:
 
+- Add support for saving search history to a file or database
+
+- Allow users to select temperature units (Celsius, Fahrenheit)
+
+- Integrate geolocation to auto-detect user’s city
+
+- Add alerts for extreme weather conditions
+
+Want to contribute? Feel free to open an issue or PR
+
+
+
+# Author
+Baliqees Oladunjoye
+
+LinkedIn: https://www.linkedin.com/in/baliqees-oladunjoye-986260bb/
+Email: baliqeesoladunjoye@gmail.com
