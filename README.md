@@ -40,4 +40,5 @@ Want to contribute? Feel free to open an issue or PR
 Baliqees Oladunjoye
 
 LinkedIn: https://www.linkedin.com/in/baliqees-oladunjoye-986260bb/
+
 Email: baliqeesoladunjoye@gmail.com
